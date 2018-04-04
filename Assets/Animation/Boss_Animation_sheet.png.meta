@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 96be3fe17fe19fb4da49ae68593297b2
+timeCreated: 1490926145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss_Animation_sheet_0
+    21300002: Boss_Animation_sheet_1
+    21300004: Boss_Animation_sheet_2
+    21300006: Boss_Animation_sheet_3
+    21300008: Boss_Animation_sheet_4
+    21300010: Boss_Animation_sheet_5
+    21300012: Boss_Animation_sheet_6
+    21300014: Boss_Animation_sheet_7
+    21300016: Boss_Animation_sheet_8
+    21300018: Boss_Animation_sheet_9
+    21300020: Boss_Animation_sheet_10
+    21300022: Boss_Animation_sheet_11
+    21300024: Boss_Animation_sheet_12
+    21300026: Boss_Animation_sheet_13
+    21300028: Boss_Animation_sheet_14
+    21300030: Boss_Animation_sheet_15
+    21300032: Boss_Animation_sheet_16
+    21300034: Boss_Animation_sheet_17
+    21300036: Boss_Animation_sheet_18
+    21300038: Boss_Animation_sheet_19
+    21300040: Boss_Animation_sheet_20
+    21300042: Boss_Animation_sheet_21
+    21300044: Boss_Animation_sheet_22
+    21300046: Boss_Animation_sheet_23
+    21300048: Boss_Animation_sheet_24
+    21300050: Boss_Animation_sheet_25
+    21300052: Boss_Animation_sheet_26
+    21300054: Boss_Animation_sheet_27
+    21300056: Boss_Animation_sheet_28
+    21300058: Boss_Animation_sheet_29
+    21300060: Boss_Animation_sheet_30
+    21300062: Boss_Animation_sheet_31
+    21300064: Boss_Animation_sheet_32
+    21300066: Boss_Animation_sheet_33
+    21300068: Boss_Animation_sheet_34
+    21300070: Boss_Animation_sheet_35
+    21300072: Boss_Animation_sheet_36
+    21300074: Boss_Animation_sheet_37
+    21300076: Boss_Animation_sheet_38
+    21300078: Boss_Animation_sheet_39
+    21300080: Boss_Animation_sheet_40
+    21300082: Boss_Animation_sheet_41
+    21300084: Boss_Animation_sheet_42
+    21300086: Boss_Animation_sheet_43
+    21300088: Boss_Animation_sheet_44
+    21300090: Boss_Animation_sheet_45
+    21300092: Boss_Animation_sheet_46
+    21300094: Boss_Animation_sheet_47
+    21300096: Boss_Animation_sheet_48
+    21300098: Boss_Animation_sheet_49
+    21300100: Boss_Animation_sheet_50
+    21300102: Boss_Animation_sheet_51
+    21300104: Boss_Animation_sheet_52
+    21300106: Boss_Animation_sheet_53
+    21300108: Boss_Animation_sheet_54
+    21300110: Boss_Animation_sheet_55
+    21300112: Boss_Animation_sheet_56
+    21300114: Boss_Animation_sheet_57
+    21300116: Boss_Animation_sheet_58
+    21300118: Boss_Animation_sheet_59
+    21300120: Boss_Animation_sheet_60
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 4696
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 4109
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 3522
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2935
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2348
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1761
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1174
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 587
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Animation_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 452
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 0de79dbe0b9d520469989c4a5119f2c0
+timeCreated: 1490318116
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Small Fire_0
+    21300002: Small Fire_1
+    21300004: Small Fire_2
+    21300006: Small Fire_3
+    21300008: Small Fire_4
+    21300010: Small Fire_5
+    21300012: Small Fire_6
+    21300014: Small Fire_7
+    21300016: Small Fire_8
+    21300018: Small Fire_9
+    21300020: Small Fire_10
+    21300022: Small Fire_11
+    21300024: Small Fire_12
+    21300026: Small Fire_13
+    21300028: Small Fire_14
+    21300030: Small Fire_15
+    21300032: Small Fire_16
+    21300034: Small Fire_17
+    21300036: Small Fire_18
+    21300038: Small Fire_19
+    21300040: Small Fire_20
+    21300042: Small Fire_21
+    21300044: Small Fire_22
+    21300046: Small Fire_23
+    21300048: Small Fire_24
+    21300050: Small Fire_25
+    21300052: Small Fire_26
+    21300054: Small Fire_27
+    21300056: Small Fire_28
+    21300058: Small Fire_29
+    21300060: Small Fire_30
+    21300062: Small Fire_31
+    21300064: Small Fire_32
+    21300066: Small Fire_33
+    21300068: Small Fire_34
+    21300070: Small Fire_35
+    21300072: Small Fire_36
+    21300074: Small Fire_37
+    21300076: Small Fire_38
+    21300078: Small Fire_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_6
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_7
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1476
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_12
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_13
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_15
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1107
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_20
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_21
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_23
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 738
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_28
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_29
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_30
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_31
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 369
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_36
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_37
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_38
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Fire_39
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 0
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
